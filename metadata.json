@@ -1,0 +1,6 @@
+{
+  "name": "DataBridge Pro",
+  "description": "High-speed transfer bridge utility for copying TR Cecily bundles to desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
